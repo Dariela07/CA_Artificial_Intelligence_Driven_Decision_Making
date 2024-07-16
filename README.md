@@ -12,14 +12,14 @@ Product Details
 - P5: Requires 5 units of labor, 3 units of machine time, 2 units of raw materials, and generates $8 profit.
 
 Resource Constraints
-Total available labor: 100 units
-Total available machine time: 80 units
-Total available raw materials: 70 units
+- Total available labor: 100 units
+- Total available machine time: 80 units
+- Total available raw materials: 70 units
 
 Additional Constraints
-Production of P1 cannot exceed 20 units.
-Production of P2 and P3 combined must be at least 10 units.
-At least 5 units of P4 must be produced.
+- Production of P1 cannot exceed 20 units.
+- Production of P2 and P3 combined must be at least 10 units.
+- At least 5 units of P4 must be produced.
 
 # Results
 The code is well documented in a python file and the optimal solution was found using CBC MILP Solver. The results are presented as follows:
