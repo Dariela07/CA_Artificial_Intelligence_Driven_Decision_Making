@@ -22,19 +22,19 @@ Production of P2 and P3 combined must be at least 10 units.
 At least 5 units of P4 must be produced.
 
 # Results
-The code is well documented and the results are as follows:
+The code is well documented in the python file and the results are as follows:
 
 In conclusion, the optimal solution was found using CBC MILP Solver:
--“Status: OptimizationStatus.OPTIMAL
--Optimal Production for P1: 0.0
--Optimal Production for P2: 0.0
--Optimal Production for P3: 10.0
--Optimal Production for P4: 10.0
--Optimal Production for P5: 10.0
--Total Labor: 100.0
--Total Machine Time: 80.0
--Total Raw Material: 70.0
--Total profit: $210.0”
+- “Status: OptimizationStatus.OPTIMAL
+- Optimal Production for P1: 0.0
+- Optimal Production for P2: 0.0
+- Optimal Production for P3: 10.0
+- Optimal Production for P4: 10.0
+- Optimal Production for P5: 10.0
+- Total Labor: 100.0
+- Total Machine Time: 80.0
+- Total Raw Material: 70.0
+- Total profit: $210.0”
 
 
 
