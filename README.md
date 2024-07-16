@@ -22,9 +22,7 @@ Production of P2 and P3 combined must be at least 10 units.
 At least 5 units of P4 must be produced.
 
 # Results
-The code is well documented in the python file and the results are as follows:
-
-In conclusion, the optimal solution was found using CBC MILP Solver:
+The code is well documented in a python file and the optimal solution was found using CBC MILP Solver. The results are presented as follows:
 - “Status: OptimizationStatus.OPTIMAL
 - Optimal Production for P1: 0.0
 - Optimal Production for P2: 0.0
