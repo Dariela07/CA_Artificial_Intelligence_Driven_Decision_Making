@@ -1,7 +1,7 @@
 # Overview # 
 This project solves a production optimization problem using Mixed-Integer Programming (MIP) with the mip library in Python. The objective is to maximize profit for a factory producing five products (P1, P2, P3, P4, and P5) while adhering to resource and production constraints. 
 
-# Problem Statement#
+# Problem Statement
 The factory produces five products: P1, P2, P3, P4, and P5. Each product requires specific amounts of labor, machine time, and raw materials, and generates a certain profit. The goal is to determine the optimal production quantities for each product to maximize total profit, given the constraints on resource availability and production capacities.
 
 Product Details
